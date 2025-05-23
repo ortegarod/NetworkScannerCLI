@@ -1,3 +1,9 @@
+# OS and editor junk
+.DS_Store
+__pycache__/
+*.pyc
+
+# Logs and local data
+logs/
 network_scanner_last_scan.csv
 known_devices.json
-logs/
